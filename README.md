@@ -27,7 +27,8 @@ A Streamlit dashboard allows:
 ```
 project/
 │
-├── EDAvito
+├──cleaned_data.csv
+├── EDAvito.ipynb
 ├── app.py
 ├── model.py
 ├── requirements.txt
