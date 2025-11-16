@@ -3,7 +3,7 @@
 
 A machine learning project that predicts real estate prices across Moroccan cities and provides a deployed Streamlit dashboard for user interaction.
 
-The dataset used in this project was scrapped from Avito.ma .
+The dataset used in this project was scraped from Avito.ma .
 
 ---
 
