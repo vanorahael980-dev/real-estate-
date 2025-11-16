@@ -27,14 +27,12 @@ A Streamlit dashboard allows:
 ```
 project/
 │
-├──cleaned_data.csv
+├── cleaned_data.csv
 ├── EDAvito.ipynb
 ├── app.py
-├── model.py
 ├── requirements.txt
 ├── README.md
-└── models/
-    └── best_model1.pkl
+└── best_model1.pkl
 ```
 
 ---
