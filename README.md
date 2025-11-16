@@ -69,7 +69,7 @@ streamlit run app.py
 ##  Deployment
 Deployed using **Streamlit Cloud**.
 
-https://5e3ad2iedmzsowavrujfpg.streamlit.app/
+https://ene-to-endml-projectreal-estate-6vantkh6f8ujtnjcqvhm67.streamlit.app/
 
 ---
 
