@@ -1,11 +1,11 @@
 
-# 📌 Real Estate Price Prediction – Morocco
+#  Real Estate Price Prediction – Morocco
 
 A machine learning project that predicts real estate prices across Moroccan cities and provides a deployed Streamlit dashboard for user interaction.
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 This project estimates fair property prices using features such as:
 - City  
 - Rooms  
@@ -20,7 +20,7 @@ A Streamlit dashboard allows:
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 project/
@@ -35,7 +35,7 @@ project/
 
 ---
 
-## 🧠 Machine Learning Models
+##  Machine Learning Models
 The following models were trained:
 
 - Linear Regression  
@@ -46,7 +46,7 @@ The following models were trained:
 
 ---
 
-## 🛠️ Environment Setup
+##  Environment Setup
 
 ### 1. Clone the repository
 ```
@@ -66,7 +66,7 @@ streamlit run app.py
 
 ---
 
-## 🌐 Deployment
+##  Deployment
 Deployed using **Streamlit Cloud**.
 
 https://5e3ad2iedmzsowavrujfpg.streamlit.app/
