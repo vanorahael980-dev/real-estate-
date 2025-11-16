@@ -50,8 +50,8 @@ The following models were trained:
 
 ### 1. Clone the repository
 ```
-git clone https://github.com/yourusername/yourrepo.git
-cd yourrepo
+git clone https://github.com/soukaina1243/end-to-end_ml-project_real-estate
+cd end-to-end_ml-project_real-estate
 ```
 
 ### 2. Install dependencies
