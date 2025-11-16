@@ -2,7 +2,8 @@
 #  Real Estate Price Prediction – Morocco
 
 A machine learning project that predicts real estate prices across Moroccan cities and provides a deployed Streamlit dashboard for user interaction.
-The dataset used in this project was scrapped from Avito.ma.
+
+The dataset used in this project was scrapped from Avito.ma .
 
 ---
 
@@ -68,13 +69,13 @@ streamlit run app.py
 
 ---
 ### Machine Learning Pipeline
-- Data Preparation: remove outliers, handle missing values, one-hot encode categorical features
+- **Data Preparation**: remove outliers, handle missing values, one-hot encode categorical features
 
-- Models Tested: Linear Regression, Random Forest, XGBoost
+- **Models Tested**: Linear Regression, Random Forest, XGBoost
 
-- Best Model: XGBoost (highest R², lowest RMSE)
+- **Best Model**: XGBoost (highest R², lowest RMSE)
 
-- Evaluation Metrics: MAE, RMSE, R²
+- **Evaluation Metrics**: MAE, RMSE, R²
 
 ### Streamlit Dashboard Features
 - User inputs: city, surface, rooms, bathrooms, property type
